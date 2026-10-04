@@ -1,5 +1,3 @@
-# My-WeatherForecastApp
-
 # Weather Forecast Web App
 
 A simple weather app that shows the current weather for any city, with a frosted-glass interface over a blurred background.
